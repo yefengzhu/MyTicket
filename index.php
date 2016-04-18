@@ -1,10 +1,6 @@
 <?php
 /**
  * 项目入口
- * @author LuoBoss
- * @copyright ©2013-2014 PESCMS
- * @license http://www.pescms.com/license
- * @version 1.0
  */
 define('IS_CGI', (0 === strpos(PHP_SAPI, 'cgi') || false !== strpos(PHP_SAPI, 'fcgi')) ? 1 : 0 );
 if (!defined('_PHP_FILE_')) {
