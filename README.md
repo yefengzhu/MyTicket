@@ -1,5 +1,5 @@
 #PESCMS Ticket
-本系统源于PESMCS Ticket 一下说明文档均为改动，转自于http://www.pescms.com
+本系统源于PESMCS Ticket 一下说明文档均未改动，转自于http://www.pescms.com<br/>
 PESMCS Ticket(下称PT)是一款基于GPLv2协议发布的开源客服工单系统。PT基于PESCMS2为核心进行开发，以全新的设计理念，实现一句JS即可嵌入任意页面中，让工单系统变得更加轻便。  
 ##运行环境
 PHP 5.4及以上版本  
